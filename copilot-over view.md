@@ -1,1 +1,1 @@
-# -AI--WORKFORCE--WEEK3-
+Microsoft Copilot is an AI-powered assistant integrated into Microsoft 365 apps like Word, Excel, PowerPoint, Outlook, and Teams. It relies on user identity, data from Microsoft Graph, and permissions to function. Copilot does not access data that the user does not have permission to access, ensuring data security and compliance. It is not a standalone data store and does not create new data silos, operating within the existing Microsoft 365 tenant's compliance and security infrastructure.
